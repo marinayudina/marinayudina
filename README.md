@@ -9,8 +9,9 @@ Participated in the full release cycle of mobile apps — from requirements gath
 ## 🔧 Tech & tools
 
 * Swift, Objective‑C
-* UIKit, SwiftUI, Combine, RxSwift
+* UIKit, SwiftUI, Combine
 * TCA, MVVM, Clean Architecture
+* WebSocket, Starscream 
 * CI/CD (Fastlane, GitHub Actions), Unit & UI testing
 * Crashlytics / Sentry / internal crash reporting
 * Instruments, Xcode, LLDB
@@ -36,7 +37,5 @@ Participated in the full release cycle of mobile apps — from requirements gath
 
 ## 📫 Contact
 
-* Email: (add your email)
-* Twitter / LinkedIn: (add links)
-
-> Short, focused, and ready to adapt — if you want a different tone (more formal, more playful, or a one‑liner), tell me which style and I’ll update the README.
+* Email: (bpono2023@gmail.com)
+* LinkedIn: ([add links](https://www.linkedin.com/in/marina-iudina-0ba39a360/))
