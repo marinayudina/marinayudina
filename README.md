@@ -37,5 +37,5 @@ Participated in the full release cycle of mobile apps — from requirements gath
 
 ## 📫 Contact
 
-* Email: (bpono2023@gmail.com)
-* LinkedIn: ([add links](https://www.linkedin.com/in/marina-iudina-0ba39a360/))
+* Email: bpono2023@gmail.com
+* [LinkedIn](https://www.linkedin.com/in/marina-iudina-0ba39a360/)
