@@ -32,10 +32,3 @@ Participated in the full release cycle of mobile apps — from requirements gath
 * Collaboration on iOS projects
 * Mentoring & tech talks
 * Contributing to open-source iOS libraries
-
----
-
-## 📫 Contact
-
-* Email: bpono2023@gmail.com
-* [LinkedIn](https://www.linkedin.com/in/marina-iudina-0ba39a360/)
